@@ -1,8 +1,8 @@
-<div align="center">
-  <h1> <code> Felipe Matteo </code> </h1>
-  <p><strong> Software Engineer & Infrastructure Architect </strong></p>
-</div>
+<p align="center">
 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00D1FF&center=true&vCenter=true&width=700&lines=Felipe+Matteo%3A+Dev+Elite;Dominando+o+TI" alt="Typing SVG" />
+
+</p>
 ---
 
 <p align="center">
