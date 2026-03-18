@@ -3,12 +3,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00D1FF&center=true&vCenter=true&width=700&lines=Felipe+Matteo%3A+Dev+Elite;Dominando+o+TI" alt="Typing SVG" />
 
 </p>
+
+
 ---
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-OPERANDO_EM_ALTA_PERFORMANCE-00D1FF?style=for-the-badge&logo=target&logoColor=black" alt="Status"/>
-  <img src="https://img.shields.io/badge/MOVIDO_A-SOLUÇÕES_DISRUPTIVAS-333333?style=for-the-badge&logo=rocket&logoColor=white" alt="Movido a"/>
-  <img src="https://img.shields.io/badge/MINDSET-CONTINUOUS_EVOLUTION-brightgreen?style=for-the-badge&logo=expertsexchange&logoColor=white" alt="Mindset"/>
+  <img src="https://img.shields.io/badge/OBJETIVO-EXCEL%C3%8ANCIA_T%C3%89CNICA-brightgreen?style=for-the-badge&logo=expertsexchange&logoColor=white" alt="Objetivo"/>
 </p>
 
 ---
