@@ -62,6 +62,4 @@
 
 ---
 
-<p align="center">
-  <em>"O sucesso não é um destino, é o padrão de excelência que você aplica em cada linha de código."</em>
-</p>
+<h3 align="center">"A excelência não é um ato, é um hábito."</h3>
