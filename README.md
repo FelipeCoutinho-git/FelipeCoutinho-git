@@ -31,9 +31,9 @@
 ---
 
 ## 📫 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[felipe-matteo-coutinho-42894a373])
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-matteo-coutinho-42894a373)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:coutinho.felipem@gmail.com)
 
 ---
 
-> "O sucesso é a soma de pequenos esforços repetidos dia após dia."
+> "Dados são o novo petróleo, mas só têm valor se forem refinados."
