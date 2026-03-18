@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00D1FF&center=true&vCenter=true&width=700&lines=Felipe+Matteo%3A+Dev+Elite;Dominando+o+TI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Felipe+Matteo%3A+Dev+Elite;Dominando+o+TI;Arquiteto+de+Soluções" alt="Typing SVG" />
 </p>
 
 <h3 align="center">"A excelência não é um ato, é um hábito."</h3>
@@ -7,8 +7,9 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Foco-Ser%20o%20Melhor%20da%20Sala-brightgreen?style=for-the-badge&logo=target&logoColor=white" alt="Foco"/>
-  <img src="https://img.shields.io/badge/Stack-Web%20%7C%20Infra%20%7C%20Dados-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Stack"/>
+  <img src="https://img.shields.io/badge/STATUS-HIGH_PERFORMANCE-00D1FF?style=for-the-badge&logo=target&logoColor=black" alt="Status"/>
+  <img src="https://img.shields.io/badge/MOVIDO_A-DESAFIOS_COMPLEXOS-333333?style=for-the-badge&logo=rocket&logoColor=white" alt="Movido a"/>
+  <img src="https://img.shields.io/badge/OBJETIVO-TOP_1%25-brightgreen?style=for-the-badge&logo=expertsexchange&logoColor=white" alt="Objetivo"/>
 </p>
 
 ---
