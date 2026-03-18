@@ -21,6 +21,14 @@
 
 ---
 
+## 🐍 My Tech Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23FFFFFF&color_dots=%23161b22,%2330363d,%23484f58,%236e7681,%238b949e" alt="snake" width="100%" />
+</p>
+
+---
+
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
