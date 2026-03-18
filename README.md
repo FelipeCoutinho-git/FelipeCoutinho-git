@@ -4,7 +4,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Focado%20na%20Excel%C3%AAncia-brightgreen?style=for-the-badge&logo=googledata-studio&logoColor=white" alt="Status Excelência"/>
-  <img src="https://img.shields.io/badge/Meta-Ser%20o%20Melhor%20da%20Sala-FDFD2E?style=for-the-badge&logo=target&logoColor=black" alt="Meta Elite"/>
   <img src="https://img.shields.io/badge/Stack-Web%20%7C%20Infra%20%7C%20Dados-0078D7?style=for-the-badge&logo=confluence&logoColor=white" alt="Stack"/>
 </p>
 
