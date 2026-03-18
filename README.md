@@ -9,7 +9,7 @@
 
 ---
 
-### 🔥 Desenvolvedor de Elite
+### 🔥 Desenvolvedor de Elite em formação
 
 Busco excelência técnica em tudo que faço.
 Não escrevo só código que funciona — construo soluções sólidas, escaláveis e bem pensadas.
