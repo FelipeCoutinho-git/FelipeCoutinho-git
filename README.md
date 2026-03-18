@@ -1,66 +1,74 @@
-# 🚀 Felipe Matteo | Explorer & Developer
+# 👋 Olá, eu sou o Felipe Matteo!
 
-> "Transformando a complexidade dos dados em simplicidade visual."
-
----
-
-### 👤 Sobre Mim
-Sou um entusiasta de tecnologia focado em construir pontes entre o **Desenvolvimento Web** e a **Infraestrutura**. Acredito que o código é a ferramenta, mas a lógica é a verdadeira arte.
-
-* 💡 **Filosofia:** "O software é uma destilação do pensamento humano."
-* 🎯 **Objetivo:** Dominar a arte de refinar dados e estruturar ambientes robustos.
-* ☕ **Combustível:** Café, persistência e documentação bem lida.
-
----
-
-### 🛠️ Meu Arsenal Tecnológico
-
-#### 🌐 Front-End & Lógica
-`HTML5` • `CSS3` • `JavaScript (ES6+)` • `Lógica de Programação`
-
-#### 🖥️ Infraestrutura & Ferramentas
-`VS Code` • `Windows` • `Linux (Ubuntu)` • `Virtualização (VirtualBox/VM)`
-
----
-
-### 🐍 My Tech Snake
-*(Uma pequena pausa lúdica no fluxo de commits)*
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%230078D7&color_dots=%23161b22,%23193e5d,%231e5d91,%23217dbf,%232196f3" alt="snake" width="100%" />
+<p align="center" style="font-size: 1.2rem; font-weight: bold;">
+  <img src="https://img.shields.io/badge/Status-Focado%20em%20Ser%20o%20Melhor-brightgreen?style=for-the-badge&logo=target&logoColor=white" alt="Status"/>
 </p>
 
 ---
 
-### 📊 Estatísticas & Performance
-
-* **Usuário:** FelipeCoutinho-git
-* **Foco Atual:** Desenvolvimento Full-Stack e Gestão de Sistemas.
-
-<p align="left">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=FelipeCoutinho-git&show_icons=true&theme=transparent&title_color=0078d7&text_color=ffffff&icon_color=0078d7&hide_border=true" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeCoutinho-git&layout=compact&theme=transparent&title_color=0078d7&text_color=ffffff&hide_border=true" />
-</p>
+### 🚀 Sobre Mim
+Sou um **Desenvolvedor em Formação** impulsionado pela busca incessante da excelência. Meu objetivo não é apenas aprender, mas dominar as tecnologias que conectam a experiência do usuário (Web) à robustez da infraestrutura (TI). Acredito na combinação de código limpo, lógica afiada e ambientes bem gerenciados.
 
 ---
 
-### 💬 Frases que me inspiram
+### 🛠️ Arsenal Tecnológico Premium
 
-> "Não sou um grande programador; sou apenas um bom programador com bons hábitos." 
-> — **Kent Beck**
+<table align="center">
+  <tr>
+    <td align="center" width="200"><strong>🌐 Web Front-End</strong></td>
+    <td align="center" width="200"><strong>💻 IDE & Utilities</strong></td>
+    <td align="center" width="200"><strong>🖥️ OS & Infra</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" title="HTML5"/>
+      <br>
+      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" title="CSS3"/>
+      <br>
+      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" title="JavaScript"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" title="Visual Studio Code"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" title="Windows 10/11"/>
+      <br>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" title="Linux (Ubuntu/Debian)"/>
+      <br>
+      <img src="https://img.shields.io/badge/VirtualBox-214294?style=for-the-badge&logo=VirtualBox&logoColor=white" alt="VirtualBox" title="Oracle VirtualBox"/>
+    </td>
+  </tr>
+</table>
 
-> "A simplicidade é o último grau de sofisticação." 
-> — **Leonardo da Vinci**
+---
 
-> "Dados são o novo petróleo, mas só têm valor se forem refinados."
+### 📊 Métricas e Desempenho
+
+<div align="center">
+  <p align="center" style="font-style: italic;">"A medição é o primeiro passo para a melhoria."</p>
+  <br>
+  <a href="https://github.com/FelipeCoutinho-git">
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeCoutinho-git&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=0078d7&icon_color=0078d7&bg_color=161b22" alt="Estatísticas Gerais do Felipe Matteo" />
+  </a>
+  <a href="https://github.com/FelipeCoutinho-git">
+    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeCoutinho-git&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&title_color=0078d7&icon_color=0078d7&bg_color=161b22" alt="Linguagens Mais Usadas pelo Felipe Matteo" />
+  </a>
+</div>
 
 ---
 
 ### 📫 Conecte-se Comigo
-* **LinkedIn:** [felipe-matteo-coutinho](https://www.linkedin.com/in/felipe-matteo-coutinho-42894a373)
-* **Email:** [coutinho.felipem@gmail.com](mailto:coutinho.felipem@gmail.com)
+*Sempre aberto a colaborações, desafios e oportunidades que exijam o máximo de dedicação.*
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/felipe-matteo-coutinho-42894a373" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Felipe Matteo" />
+  </a>
+  <a href="mailto:coutinho.felipem@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Felipe Matteo" />
+  </a>
+</div>
 
 ---
-<p align="center">
-  Felipe Matteo • 2024 • Feito com foco e determinação.
-</p>
+
+> "O segredo de ser o melhor não é saber todas as respostas, mas nunca parar de fazer as perguntas difíceis."
