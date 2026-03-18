@@ -9,9 +9,11 @@
 
 ---
 
-### 🔥 Manifesto do Desenvolvedor de Elite
+### 🔥 Desenvolvedor de Elite
 
-Sou impulsionado pela busca incessante da **perfeição técnica**. Meu objetivo não é apenas escrever código que funcione; é arquitetar soluções robustas, escaláveis e elegantes. Eu domino o **Front-End** para criar experiências imersivas, gerencio a **Infraestrutura** para garantir estabilidade e analiso **Dados** para tomar decisões inteligentes. Eu não sigo tendências, eu as construo.
+Busco excelência técnica em tudo que faço.
+Não escrevo só código que funciona — construo soluções sólidas, escaláveis e bem pensadas.
+Do front-end à infraestrutura e aos dados, crio sistemas que realmente fazem a diferença.
 
 ---
 
