@@ -21,14 +21,6 @@
 
 ---
 
-## 🐍 Jogo da Cobrinha
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/FelipeCoutinho-git/FelipeCoutinho-git/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
----
-
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
