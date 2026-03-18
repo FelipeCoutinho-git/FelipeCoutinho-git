@@ -67,18 +67,6 @@ Do front-end à infraestrutura e aos dados, crio sistemas que realmente fazem a 
 
 ---
 
-### 📊 Métricas de Desenvolvimento & Impacto
-
-*(Resultados tangíveis da minha dedicação)*
-
-<p align="center">
-  <a href="https://github.com/FelipeCoutinho-git">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=FelipeCoutinho-git&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=00D1FF&icon_color=00D1FF&bg_color=161b22" alt="Felipe Matteo GitHub Stats" />
-  </a>
-</p>
-
----
-
 ### 📫 Conecte-se com a Elite
 
 *Aberto a desafios que exijam o máximo de criatividade e engenharia.*
