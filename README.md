@@ -1,66 +1,60 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=transparent&fontColor=ffffff&text=FELIPE%20MATTEO&fontSize=70&desc=Software%20Engineer%20%7C%20Infrastructure%20Analyst&descAlignY=75&descSize=20" alt="Felipe Matteo" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00D1FF&center=true&vCenter=true&width=700&lines=Felipe+Matteo%3A+Dev+Elite;Dominando+o+TI" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <kbd><b>"A tecnologia é o suporte, mas a lógica de excelência é o diferencial competitivo."</b></kbd>
-</p>
+<h3 align="center">"A excelência não é um ato, é um hábito."</h3>
 
-<br>
+---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PROFILING-HIGH_PERFORMANCE-0078D7?style=for-the-badge&logo=target&logoColor=white" alt="Performance"/>
-  <img src="https://img.shields.io/badge/FOCUS-FULL_STACK_ARCHITECTURE-333333?style=for-the-badge&logo=codetriage&logoColor=white" alt="Focus"/>
-  <img src="https://img.shields.io/badge/LEVEL-ELITE_DEVELOPER-FFD700?style=for-the-badge&logo=star&logoColor=black" alt="Elite"/>
+  <img src="https://img.shields.io/badge/Foco-Ser%20o%20Melhor%20da%20Sala-brightgreen?style=for-the-badge&logo=target&logoColor=white" alt="Foco"/>
+  <img src="https://img.shields.io/badge/Stack-Web%20%7C%20Infra%20%7C%20Dados-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Stack"/>
 </p>
 
 ---
 
-### 🚀 Technical Overview
-Especializando-se na construção de interfaces modernas e na gestão de infraestruturas resilientes. Focado em otimização de processos e entrega de software de alta fidelidade.
+## 🛠️ Meu Arsenal Tecnológico
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" width="300">
-        <strong>🌐 FRONT-END CORE</strong><br>
-        <code>HTML5</code> • <code>CSS3</code> • <code>JavaScript</code>
-      </td>
-      <td align="center" width="300">
-        <strong>🖥️ INFRA & SYSTEMS</strong><br>
-        <code>Linux</code> • <code>Windows</code> • <code>VirtualBox</code>
-      </td>
-    </tr>
-  </table>
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="250"><strong>🌐 Web & Front-End</strong></td>
+    <td align="center" width="250"><strong>🖥️ Sistemas & Infra</strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+      <br>
+      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+      <br>
+      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+      <br>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+      <br>
+      <img src="https://img.shields.io/badge/VirtualBox-214294?style=for-the-badge&logo=VirtualBox&logoColor=white" alt="VirtualBox"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📊 Performance Analytics
+## 📊 Métricas de Desenvolvimento
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FelipeCoutinho-git&show_icons=true&theme=transparent&title_color=ffffff&text_color=a9adc1&icon_color=0078D7&hide_border=true" alt="Felipe Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FelipeCoutinho-git&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=00D1FF&icon_color=00D1FF&bg_color=161b22" alt="Felipe Matteo Stats" />
 </p>
 
 ---
 
-### 🐍 Contribution Flow
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%230078D7&color_dots=%23161b22,%23193e5d,%231e5d91,%23217dbf,%232196f3" alt="snake" width="85%" />
-</p>
+## 📫 Vamos Conversar?
 
----
-
-### 📫 Networking
 <p align="center">
   <a href="https://www.linkedin.com/in/felipe-matteo-coutinho-42894a373" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:coutinho.felipem@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-</p>
-
-<br>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0078d7&height=60&section=footer" alt="Footer" />
 </p>
