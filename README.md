@@ -21,11 +21,19 @@
 
 ---
 
+## 🐍 Jogo da Cobrinha
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/FelipeCoutinho-git/FelipeCoutinho-git/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+---
+
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[FelipeCoutinho-git]&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[FelipeCoutinho-git]&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeCoutinho-git&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeCoutinho-git&layout=compact&langs_count=7&theme=dark"/>
 </p>
 
 ---
