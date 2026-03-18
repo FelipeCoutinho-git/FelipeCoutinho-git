@@ -1,4 +1,4 @@
-# Eu sou o [Felipe Matteo Coutinho]! 👋
+# Eu sou o Felipe Matteo Coutinho! 👋
 
 ### Aprendendo transformar dados em insights e explorar o mundo da tecnologia.
 
@@ -28,14 +28,14 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[FelipeCoutinho-git]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[FelipeCoutinho-git]&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username= FelipeCoutinho-git&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeCoutinho-git&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
 
 ---
 
 ## 📫 Como me encontrar
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[felipe-matteo-coutinho-42894a373])
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-matteo-coutinho-42894a373)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:coutinho.felipem@gmail.com)
 
 ---
