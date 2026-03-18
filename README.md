@@ -57,12 +57,10 @@ Do front-end à infraestrutura e aos dados, crio sistemas que realmente fazem a 
 
 ---
 
-### 🚀 Gráfico de Evolução de Skills
-
-*(Um progresso visual contínuo rumo ao domínio total)*
+## 🐍 My Tech Snake
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeCoutinho-git&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&title_color=00D1FF&icon_color=00D1FF&bg_color=161b22" alt="Felipe Matteo Languages"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23FFFFFF&color_dots=%23161b22,%2330363d,%23484f58,%236e7681,%238b949e" alt="snake" width="100%" />
 </p>
 
 ---
