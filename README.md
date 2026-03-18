@@ -79,17 +79,6 @@ Do front-end à infraestrutura e aos dados, crio sistemas que realmente fazem a 
 
 ---
 
-### 🏢 Projetos em Destaque
-
-*(A vitrine do meu domínio técnico — em breve...)*
-
-| Projeto | Descrição Tecnológica | Link |
-| :--- | :--- | :--- |
-| **Portfólio de Elite** | Uma vitrine arquitetada para demonstrar habilidades Full-Stack. | [Visualizar](https://github.com/FelipeCoutinho-git) |
-| **Lab de Infra Linux** | Automação de ambientes virtuais Ubuntu para testes de segurança. | [Visualizar](https://github.com/FelipeCoutinho-git) |
-
----
-
 ### 📫 Conecte-se com a Elite
 
 *Aberto a desafios que exijam o máximo de criatividade e engenharia.*
