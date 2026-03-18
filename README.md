@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=00D1FF&center=true&vCenter=true&width=700&lines=Felipe+Matteo%3A+Elite+Dev;Web%2C+Infra+%26+Data+Arquiteto;Desafiando+o+Status+Quo..." alt="Felipe Matteo Elite Dev" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=00D1FF&center=true&vCenter=true&width=700&lines=Felipe+Matteo%3A+Elite+Dev;" alt="Felipe Matteo Elite Dev" />
 </p>
 
 <p align="center">
